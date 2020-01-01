@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const stars = document.getElementsByClassName("stars")[0];
 let starsCount = 1000;
 for (let i = 0; i < starsCount; i++) {
