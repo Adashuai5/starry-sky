@@ -3,8 +3,8 @@
   padding: 0;
 }
 body {
-  width: 100vw;
-  height: 100vh;
+  max-width: 100vw;
+  max-height: 100vh;
   background: radial-gradient(
     200% 100% at bottom center,
     #f7f7b6,
